@@ -1,0 +1,24 @@
+{
+  "name": "comfort-dark",
+  "displayName": "Comfort Dark",
+  "description": "A dark theme for comfort of eyes by Ayush Dutta",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ayush Dutta"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Comfort Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/comfort-dark-color-theme.json"
+      }
+    ]
+  }
+}
