@@ -3,15 +3,36 @@
   "displayName": "Comfort Dark",
   "description": "A dark theme for comfort of eyes by Ayush Dutta",
   "version": "0.1.0",
+  "publisher": "ayushdutta",
   "author": {
     "name": "Ayush Dutta"
   },
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorks-dev/comfort-dark"
+  },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "comfort",
+    "solarized",
+    "dark",
+    "Cobalt",
+    "one dark",
+    "one dark pro",
+    "gruvbox",
+    "night",
+    "VSCode",
+    "dracula",
+    "black",
+    "orange",
+    "red"
+  ],
+  "icon": "./images/icon/comfort.png",
   "contributes": {
     "themes": [
       {
